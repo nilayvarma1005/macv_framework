@@ -82,8 +82,10 @@ Follow these steps to set up the project locally.
 
 To run the full evaluation pipeline and reproduce the results, execute the main script:
 
-```sh
-python main.py
+   ```bash
+   python main.py
+   ```
+---
 
 ## Sample figures
 
