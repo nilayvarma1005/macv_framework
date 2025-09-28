@@ -57,7 +57,7 @@ Follow these steps to set up the project locally.
 1.  **Clone the repository:**
     ```sh
     git clone https://github.com/nilayvarma1005/macv_framework.git
-    cd macv-framework
+    cd macv_framework
     ```
 
 2.  **Create a virtual environment:**
